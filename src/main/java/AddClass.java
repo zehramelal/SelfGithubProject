@@ -11,3 +11,4 @@ public class AddClass {
         System.out.println(a+b);
     }
 }
+
