@@ -4,6 +4,7 @@ public class AddClass {
     public static void main(String[] args) {
 
     addM(3,5,4);
+        System.out.println("hello");
 
     }
 
